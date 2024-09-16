@@ -1,0 +1,4 @@
+## Get Users
+GET http://localhost:8080/users/123?li
+?limit=10
+&offset=0
